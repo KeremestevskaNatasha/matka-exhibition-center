@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	
+	<item android:id="@+id/nav_history" android:title="History" android:icon="@drawable/ic_history"/>
+	<item android:id="@+id/nav_exhibition" android:title="Exhibition" android:icon="@drawable/ic_exhibition" />
+	<item android:id="@+id/nav_videos" android:title="Videos" android:icon="@drawable/ic_videos"/>
+	<item android:id= "@+id/nav_more" android:title="More" android:icon="@drawable/ic_more"/>
+</menu>

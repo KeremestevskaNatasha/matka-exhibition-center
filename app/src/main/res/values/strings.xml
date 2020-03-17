@@ -1,0 +1,27 @@
+<resources>
+	<string name="app_name">MatkaExhibitionCentre</string>
+	
+	
+	<string name="history0_fragment">In the thirties of the last century, an artificial lake was built at the exit of the canyon on Lake Treska, with a concrete dam for electricity production. Construction work on the dam began in 1935 and HPP began operations in 1938 with an installed capacity of 4.2 MW.</string>
+	<string name="history1_fragment">The construction was extensive and it was a collective venture, a capital project of its time, but credits for it’s construction can be attributed to Professor. Dr. Miladin Pekinar the author of the project, the designer and the man supervising the construction. When the dam was completed, Pekinar standing on its top shouted: “If you the dam goes, let the one who envisioned it go with it”.</string>
+	<string name="history2_fragment">During the Second World War, HPP Matka was one of the strategic objects around which battles were fought. It was the target of bombing in the military operations during the retreat of the fascist forces. Even an attempt was made to blow the dam up, but brave group of partisans heroically defended Matka. The dam of HPP Matka has rescued Skopje from floods several times, during the great flood in 1962 and 1979 when the dam held a huge amount of water and contributed to the prevention of major disaster.</string>
+	<string name="history3_fragment">The HPP Match today is part of the production of renewable energy of EVN Macedonia. In 2008 it has been reconstructed and a completely new hydropower plan has been built.  With the construction of the new powerhouse, located near the old, the old powerhouse ceased operation, after which in 2016 was transformed into an educational and exhibition center.</string>
+	
+	<string name="exhibition_fragment">In the display of the exhibition center today you can see original old items, archive materials, films, photographs, interviews, real components of the electric and energy system as well as unique educational models designed for the center and for learning through interaction.
+
+Topics covered by the exhibited items are:
+
+history of electrification of Macedonia
+history of HPP Matka
+electricity and electrical current
+electric and energy system
+renewable energy: hydro power, solar power, wind
+energy efficiency
+Visit the center and see the whole content of the center up close!</string>
+	<string name="more_about_the_exhibition">more about the exhibition</string>
+	
+	<!-- TODO: Remove or change this placeholder text -->
+	<string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
